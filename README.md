@@ -24,7 +24,3 @@ This project is a Python application that solves quadratic equations and generat
 5. **Testing (`test_project.py` file):**
    - The project includes a test suite using `pytest` to validate the correctness of the `quad()`, `y_quad()`, and `plot_equ()` functions.
    - The tests ensure that the functions return the expected results and that the plot is generated successfully.
-
-
- 
-"# CS50P-Quadratic-Solver" 
